@@ -1,4 +1,4 @@
 #PROJECT BiFrost
-
-Igen ez csak egy fancy project név egyenlőre, de szeretnék (igaz kérésre) létrehozni egy rajt órát ami versenyeken periodikusan indít el egy embert.
-A projekt egy Raspberry Pi Zero 2 W-n fut és egy Adafruit(2277) 64x32 rgb mátrix a kijelző.
+A project that uses a Raspberry Pi Zero 2 W and a 64x32 rgb matrix.
+Displaying the current time and a :30s countdown on it.
+It has some and will be some updates.
